@@ -1,0 +1,133 @@
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.csproj.AssemblyReference.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Vue3 TS Sandbox.exe
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Vue3 TS Sandbox.deps.json
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Vue3 TS Sandbox.runtimeconfig.json
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Vue3 TS Sandbox.runtimeconfig.dev.json
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Vue3 TS Sandbox.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Vue3 TS Sandbox.pdb
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\VueCliMiddleware.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\cs\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\de\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\es\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\fr\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\it\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\ja\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\ko\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\pl\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\ru\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\tr\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.AssemblyInfoInputs.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.AssemblyInfo.cs
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\staticwebassets\Vue3 TS Sandbox.StaticWebAssets.Manifest.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\staticwebassets\Vue3 TS Sandbox.StaticWebAssets.xml
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\scopedcss\bundle\Vue3 TS Sandbox.styles.css
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.RazorTargetAssemblyInfo.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.csproj.CopyComplete
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.pdb
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\obj\Debug\netcoreapp3.1\Vue3 TS Sandbox.genruntimeconfig.cache
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphiQL.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Primitives.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Server.Core.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.AspNetCore.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.Subscriptions.Abstractions.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Server.Transports.WebSockets.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\GraphQL.Server.Ui.Playground.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\sandb\package-lock.json
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\sandb\package.json
+C:\Users\runfm\source\repos\Vue3 TS Sandbox\Vue3 TS Sandbox\bin\Debug\netcoreapp3.1\sandb\tsconfig.json

@@ -1,0 +1,90 @@
+.ssp-button-context-menu {
+	position: absolute;
+	top: calc(100% + 0.5rem);
+	padding: 0.5rem 0px;
+	text-align: left;
+	@include ssp-border-full;
+
+	/* 	 */
+
+	&.ssp-button-context-menu__size_large {
+		font-size: $--font-size-normal;
+	}
+
+	&.ssp-button-context-menu__size_medium {
+		font-size: $--font-size-normal;
+	}
+
+	&.ssp-button-context-menu__size_small {
+		font-size: $--font-size-normal;
+	}
+
+	&.ssp-button-context-menu__size_mini {
+		font-size: $--font-size-normal;
+	}
+
+
+	.ssp-button-context-menu-item {
+		padding: 0px 4px;
+		&:hover {
+			color: $--color-primary;
+			background-color: $--color-primary-lighter;
+		}
+	}
+
+	&.ssp-button-context-menu__type_primary {
+		border-color: $--color-primary-light;
+		.ssp-button-context-menu-item {
+			&:hover {
+				color: $--color-primary;
+				background-color: $--color-primary-lighter;
+			}
+		}
+	}
+
+	&.ssp-button-context-menu__type_success {
+		border-color: $--color-success-light;
+		.ssp-button-context-menu-item {
+			&:hover {
+				color: $--color-success;
+				background-color: $--color-success-light-plus;
+			}
+		}
+	}
+
+	&.ssp-button-context-menu__type_info {
+		border-color: $--color-info-light;
+		.ssp-button-context-menu-item {
+			&:hover {
+				color: $--color-info;
+				background-color: $--color-info-light-plus;
+			}
+		}
+	}
+
+	&.ssp-button-context-menu__type_warning {
+		border-color: $--color-warning-light;
+		.ssp-button-context-menu-item {
+			&:hover {
+				color: $--color-warning;
+				background-color: $--color-warning-light-plus;
+			}
+		}
+	}
+
+	&.ssp-button-context-menu__type_danger {
+		border-color: $--color-danger-light;
+		.ssp-button-context-menu-item {
+			&:hover {
+				color: $--color-danger;
+				background-color: $--color-danger-light-plus;
+			}
+		}
+	}
+
+
+	/* 	& {
+		color: $--color-primary;
+		background-color: $--color-primary-lighter;
+	} */
+}

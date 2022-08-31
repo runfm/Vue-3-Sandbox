@@ -1,0 +1,28 @@
+
+.ssp-button-body__tc {
+	font-size: $--font-size-normal;
+}
+
+
+.ssp-button-body__tc_size_mini,
+.ssp-button-body__tc_size_small {
+	font-size: $--font-size-compact;
+}
+
+.ssp-button-body_size_mini {
+	padding: 1px;
+	padding-right: 5px;
+}
+
+.ssp-button-body_size_small {
+	padding: 3px;
+	padding-right: 7px;
+}
+
+.ssp-button-body_size_medium {
+	padding: 7px;
+}
+
+.ssp-button-body_size_large {
+	padding: 7px;
+}

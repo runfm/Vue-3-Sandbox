@@ -1,0 +1,189 @@
+//@use "element-plus/theme-chalk/src/index.scss" as *;
+
+//@use "element-plus/theme-chalk/src/common/var.scss" as *;
+
+$--border-color: lightgrey;
+
+$--border: 1px solid $--border-color ;
+
+$--border-none: 1px solid transparent !important;
+
+$--font-size: 16px;
+
+$--font-size-normal: 14px;
+
+$--font-size-compact: 12px;
+
+$--text-color-basic: #606266;
+
+$--color-hover: #ecf5ff;
+
+$--color-click: #3a8ee6;
+
+$--color-primary: #409eff;
+$--color-primary-light: lighten($--color-primary, 10%);
+$--color-primary-light-plus: lighten($--color-primary, 25%);
+$--color-primary-lighter: lighten($--color-primary-light, 25%);
+$--color-primary-dark: darken($--color-primary, 10%);
+
+$--color-success: #67c23a;
+$--color-success-light: lighten($--color-success, 10%);
+$--color-success-light-plus: lighten($--color-success, 45%);
+$--color-success-dark: darken($--color-success, 10%);
+
+$--color-info: #909399;
+$--color-info-light: lighten($--color-info, 10%);
+$--color-info-light-plus: lighten($--color-info, 35%);
+$--color-info-dark: darken($--color-info, 10%);
+
+$--color-warning: #e6a23c;
+$--color-warning-light: lighten($--color-warning, 10%);
+$--color-warning-light-plus: lighten($--color-warning, 40%);
+$--color-warning-dark: darken($--color-warning, 10%);
+
+$--color-danger: #f56c6c;
+$--color-danger-light: lighten($--color-danger, 10%);
+$--color-danger-light-plus: lighten($--color-danger, 27%);
+$--color-danger-dark: darken($--color-danger, 10%);
+
+@mixin ssp-border-full {
+	border-radius: 4px;
+	border: $--border;
+}
+
+@mixin ssp-border-none {
+	border-radius: 0px;
+	border: $--border-none
+}
+
+
+@mixin defaultHover {
+	color: $--color-primary;
+	border-color: $--color-primary-light-plus;
+	background-color: $--color-primary-lighter;
+}
+
+@mixin primaryHover {
+	color: white;
+	border-color: $--color-primary-light;
+	background-color: $--color-primary-light;
+}
+
+
+
+@mixin defaultClick {
+	color: $--color-primary;
+	border-color: $--color-primary;
+	background-color: $--color-primary-light-plus;
+}
+
+@mixin primary {
+	color: white;
+	background-color: $--color-primary;
+	border-color: $--color-primary;
+}
+
+@mixin primaryClick {
+	border-color: $--color-primary-dark;
+	background-color: $--color-primary-dark;
+}
+
+
+@mixin success {
+	color: white;
+	background-color: $--color-success;
+	border-color: $--color-success;
+}
+
+@mixin successClick {
+	border-color: $--color-success-dark;
+	background-color: $--color-success-dark;
+}
+
+
+@mixin successHover {
+	color: white;
+	border-color: $--color-success-light;
+	background-color: $--color-success-light;
+}
+
+@mixin successPlain {
+	color: $--color-success;
+	border-color: $--color-success;
+	background-color: $--color-success-light-plus;
+}
+
+
+
+@mixin info {
+	color: white;
+	background-color: $--color-info;
+	border-color: $--color-info;
+}
+
+@mixin infoClick {
+	border-color: $--color-info-dark;
+	background-color: $--color-info-dark;
+}
+
+@mixin infoHover {
+	color: white;
+	border-color: $--color-info-light;
+	background-color: $--color-info-light;
+}
+
+@mixin infoPlain {
+	color: $--color-info;
+	border-color: $--color-info;
+	background-color: $--color-info-light-plus;
+}
+
+
+
+@mixin warning {
+	color: white;
+	background-color: $--color-warning;
+	border-color: $--color-warning;
+}
+
+@mixin warningClick {
+	border-color: $--color-warning-dark;
+	background-color: $--color-warning-dark;
+}
+
+@mixin warningHover {
+	color: white;
+	border-color: $--color-warning-light;
+	background-color: $--color-warning-light;
+}
+
+@mixin warningPlain {
+	color: $--color-warning;
+	border-color: $--color-warning;
+	background-color: $--color-warning-light-plus;
+}
+
+
+@mixin danger {
+	color: white;
+	background-color: $--color-danger;
+	border-color: $--color-danger;
+}
+
+@mixin dangerClick {
+	border-color: $--color-danger-dark;
+	background-color: $--color-danger-dark;
+}
+
+@mixin dangerHover{
+	color: white;
+	border-color: $--color-danger-light;
+	background-color: $--color-danger-light;
+}
+
+
+@mixin dangerPlain{
+	color: $--color-danger;
+	border-color: $--color-danger;
+	background-color: $--color-danger-light-plus;
+}

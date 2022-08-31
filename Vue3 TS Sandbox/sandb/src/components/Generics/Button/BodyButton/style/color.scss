@@ -1,0 +1,142 @@
+.ssp-button-body {
+	background: #fff;
+	color: $--text-color-basic;
+
+	&:hover:not(.ssp-button-body_disabled) {
+		@include defaultHover
+	}
+
+	&:active:not(.ssp-button-body_disabled) {
+		@include defaultClick;
+	}
+
+	&.ssp-button-body_type_primary {
+		@include primary;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include primaryHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include primaryClick
+		}
+
+		&.ssp-button-body_plain {
+			@include defaultHover;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include primary;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include primaryClick
+			}
+		}
+
+	}
+
+	&.ssp-button-body_type_success {
+		@include success;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include successHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include successClick;
+		}
+
+		&.ssp-button-body_plain {
+			@include successPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include success;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include successClick;
+			}
+		}
+	}
+
+
+	&.ssp-button-body_type_info {
+		@include info;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include infoHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include infoClick;
+		}
+
+		&.ssp-button-body_plain {
+			@include infoPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include info;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include infoClick;
+			}
+		}
+	}
+
+
+	&.ssp-button-body_type_warning {
+		@include warning;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include warningHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include warningClick;
+		}
+
+		&.ssp-button-body_plain {
+			@include warningPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include warning;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include warningClick;
+			}
+		}
+	}
+
+
+
+	&.ssp-button-body_type_danger {
+		@include danger;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include dangerHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include dangerClick;
+		}
+
+		&.ssp-button-body_plain {
+			@include dangerPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include danger;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include dangerClick;
+			}
+		}
+	}
+
+	&.ssp-button-body_disabled {
+		border-color: lightgrey;
+		color: lightgrey;
+	}
+}

@@ -1,0 +1,156 @@
+.ssp-button {
+	cursor: pointer;
+	width: fit-content;
+
+	position: relative;
+}
+
+.ssp-button__cw {
+	display: flex;
+	user-select: none;
+}
+
+.ssp-button-split-menu-icon {
+	border: $--border;
+	border-left: 0px;
+	border-radius: 0px 4px 4px 0px;
+	padding: 0px 4px;
+
+	&.ssp-button-split-menu-icon__family_awesome{
+		padding: 0px 7px;
+	}
+
+	&:hover:not(.ssp-button-body_disabled) {
+		@include defaultHover
+	}
+
+	&:active:not(.ssp-button-body_disabled) {
+		@include defaultClick;
+	}
+
+	&.ssp-button-split-menu-icon__type_primary {
+		@include primary;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include primaryHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include primaryClick
+		}
+
+		&.ssp-button-split-menu-icon__plain {
+			@include defaultHover;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include primary;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include primaryClick
+			}
+		}
+	}
+
+
+
+	&.ssp-button-split-menu-icon__type_success {
+		@include success;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include successHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include successClick
+		}
+
+		&.ssp-button-split-menu-icon__plain {
+			@include successPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include success;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include successClick
+			}
+		}
+	}
+
+
+	&.ssp-button-split-menu-icon__type_info {
+		@include info;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include infoHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include infoClick
+		}
+
+		&.ssp-button-split-menu-icon__plain {
+			@include infoPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include info;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include infoClick
+			}
+		}
+	}
+
+
+	&.ssp-button-split-menu-icon__type_warning {
+		@include warning;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include warningHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include warningClick
+		}
+
+		&.ssp-button-split-menu-icon__plain {
+			@include warningPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include warning;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include warningClick
+			}
+		}
+	}
+
+
+	&.ssp-button-split-menu-icon__type_danger {
+		@include danger;
+
+		&:hover:not(.ssp-button-body_disabled) {
+			@include dangerHover;
+		}
+
+		&:active:not(.ssp-button-body_disabled) {
+			@include dangerClick
+		}
+
+		&.ssp-button-split-menu-icon__plain {
+			@include dangerPlain;
+
+			&:hover:not(.ssp-button-body_disabled) {
+				@include danger;
+			}
+
+			&:active:not(.ssp-button-body_disabled) {
+				@include dangerClick
+			}
+		}
+	}
+
+}

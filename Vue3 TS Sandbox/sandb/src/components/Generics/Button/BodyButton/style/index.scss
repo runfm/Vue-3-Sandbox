@@ -1,0 +1,28 @@
+@import "./size.scss";
+@import "./color.scss";
+
+.ssp-button-body {
+	display: flex;
+	align-items: center;
+	@include ssp-border-full;
+
+	&.ssp-button-body_borderless {
+		@include ssp-border-none;
+	}
+
+	.ssp-button-body__tc_icon {
+		margin-left: 0.2rem;
+	}
+
+	&.ssp-button-body_disabled {
+		cursor: not-allowed;
+	}
+
+	&.ssp-button-body_split-menu {
+		border-radius: 4px 0px 0px 4px;
+	}
+
+	&a {
+		text-decoration: none;
+	}
+}
