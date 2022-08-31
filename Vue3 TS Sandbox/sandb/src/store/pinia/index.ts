@@ -18,7 +18,8 @@ function createUrl(controller: string, method: string, withHost: boolean = false
 
 interface SspState{
 	Menu: SspContextMenu,
-	ButtonTypes:Array<string>
+	ButtonTypes:Array<string>,
+	IsAsideVisible:boolean
 }
 
 
@@ -30,13 +31,15 @@ export const useStore = defineStore('counter', () => {
 			Split:false,
 			Items:[]
 		},
-		ButtonTypes:[]
+		ButtonTypes:[],
+		IsAsideVisible:false
 	})
 	//let contextMenu__ = reactive()
 	let loading = ref(false);
 
 	const buttonTypes = computed(() => state_.ButtonTypes)
 	const menu = computed(()=> state_.Menu)
+	const IsAsideVisible = computed(()=> state_.IsAsideVisible)
 
 	async function UpdateData() {
 		if (sync.value == false) {
@@ -56,5 +59,10 @@ export const useStore = defineStore('counter', () => {
 		return state_
 	}
 
-	return { loading, buttonTypes, menu, UpdateData, SetSplitMenuValue }
+	async function ToogleAside() {
+		state_.IsAsideVisible = !state_.IsAsideVisible
+		return state_
+	}
+
+	return { loading, buttonTypes, menu, UpdateData, SetSplitMenuValue, ToogleAside, IsAsideVisible }
 })

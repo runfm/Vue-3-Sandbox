@@ -11,6 +11,10 @@
 	}
 
 	.ssp-button-body__tc_icon {
+		//margin-left: 0.2rem;
+	}
+
+	.ssp-button-body__tc:not(:empty){
 		margin-left: 0.2rem;
 	}
 

@@ -1,13 +1,18 @@
 <template>
   <div id="ssp-page-wrapper">
     <header>
+      <SspButton icon="menu" @click="menuClick" />
       <nav>
         <router-link to="/">Button</router-link> |
         <router-link to="/about">About</router-link>
       </nav>
     </header>
     <div id="ssp-main" class="ssp-main">
-      <aside></aside>
+      <aside v-if="store.IsAsideVisible">
+        <SspButton icon="widgets"  />
+        <SspButton icon="lan"  />
+        <SspButton icon="spa"  />
+      </aside>
       <div class="ssp-main-content">
         <router-view />
       </div>
@@ -16,6 +21,18 @@
   </div>
 
 </template>
+
+<script lang="ts" setup>
+import SspButton from "@/components/Generics/Button/index.vue"
+import { useStore } from '@/store/pinia/index'
+
+const store = useStore()
+
+function menuClick() {
+  store.ToogleAside()
+}
+
+</script>
 
 <style lang="scss">
 #ssp-page-wrapper {
@@ -56,6 +73,25 @@ html {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+
+#ssp-main {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.ssp-main-content {
+  flex-grow: 1;
+}
+
+header {
+  display: flex;
+}
+
+aside {
+  border-right: $--border;
+  padding: 0px 8px;
+  @include flex-v
 }
 
 nav {

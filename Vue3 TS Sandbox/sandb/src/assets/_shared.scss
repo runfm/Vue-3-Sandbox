@@ -175,15 +175,27 @@ $--color-danger-dark: darken($--color-danger, 10%);
 	background-color: $--color-danger-dark;
 }
 
-@mixin dangerHover{
+@mixin dangerHover {
 	color: white;
 	border-color: $--color-danger-light;
 	background-color: $--color-danger-light;
 }
 
 
-@mixin dangerPlain{
+@mixin dangerPlain {
 	color: $--color-danger;
 	border-color: $--color-danger;
 	background-color: $--color-danger-light-plus;
+}
+
+@mixin flex-v {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+@mixin flex-h {
+	display: flex;
+	flex-direction: row;
+	gap: 0.5rem;
 }
